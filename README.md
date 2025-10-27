@@ -14,5 +14,5 @@ The 2 folders titled known (new images of Mango leaves for test) and unknown (un
 
 How to run the code?
 - The base path is common to all five dataset folders
-- We copy the path to each of the training and test datasets and replace it before running the code, as required
-
+- We copy the base path and the path of the image chosen
+- The user inputs the data to run the code
